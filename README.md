@@ -9,7 +9,9 @@
 
 .  Links do projeto
 
-   -Vídeo explicativo
+   -Vídeo explicativo - https://drive.google.com/file/d/1B2tEBpZEcGdDa8iaymnik62j5b2ZwoIp/
+view?usp=drive_link
+
   - E-mail: cupcakeloja@123
   - Senha: cupcake123
 
